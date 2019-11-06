@@ -16,4 +16,19 @@ You can see the results on the Demo section below.
 ## Demo
 
 ### Mandelbrot fractal
-<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Mandelbrot.mov">
+<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Mandelbrot.gif">
+
+### Julia fractal
+<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Julia.gif">
+
+### Ship fractal
+<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Ship.gif">
+
+### Batman fractal
+<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Batman.gif">
+
+### Leaf fractal
+<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Leaf.gif">
+
+### Cristal fractal
+<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Cristal.gif">

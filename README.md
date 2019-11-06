@@ -8,6 +8,13 @@ This program represents several fractals in 2 dimensions.
 All the fractals chosen use the complex plane.
 
 ### Features
+- 14 several fractals
+- zoom on cursor
+- possibility to change iterations
+- unicolor, bicolor and multicolor modes
+- gradient and ungradient color modes
+- generation of random colors sets
+- multithreading
 
 ## Use
 This program uses a "homemade" graphical library provided to us by 42school, hence it's not portable out of school.

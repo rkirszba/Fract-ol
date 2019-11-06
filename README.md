@@ -1,7 +1,7 @@
 # Fract'ol
 42 project Fract'ol
 
-<img src="https://github.com/rkirszba/Fract-ol/blob/master/media/Julia.mov">
+<img src="https://giphy.com/gifs/hVgCxjyEK74tJuIPfq">
 
 ## Description
 This program represents several fractals in 2 dimensions.

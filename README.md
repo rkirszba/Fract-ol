@@ -1,7 +1,7 @@
 # Fract'ol
 42 project Fract'ol
 
-<img src="https://gph.is/g/E1qn21r">
+<img src="https://media.giphy.com/media/hVgCxjyEK74tJuIPfq/giphy.gif">
 
 ## Description
 This program represents several fractals in 2 dimensions.
